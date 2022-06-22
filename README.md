@@ -21,7 +21,7 @@ ex. Luka Nikuradze - luka.nikuradze.1@btu.edu.ge
 ## Version History
 
 * 1.0.1 (23.06.2022)
-    *added commentaries to xml and fixed age input type
+    * added commentaries to xml and fixed age input type
 
 * 1.0 (22.06.2022)
     * Initial Release
