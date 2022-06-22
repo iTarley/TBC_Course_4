@@ -9,5 +9,6 @@ Homework#4(Login Page)
 Login Page activity with validation checkers
 
 
-![Alt text](https://firebasestorage.googleapis.com/v0/b/metaplayer-6d01c.appspot.com/o/LoginPage%2FIMG_20220622_161539.jpg?alt=media&token=b804ac9c-2454-4447-b1b5-b060240a90b2)
-![Alt text](https://firebasestorage.googleapis.com/v0/b/metaplayer-6d01c.appspot.com/o/LoginPage%2FIMG_20220622_161054.jpg?alt=media&token=4690b0bf-4d4c-4593-b68b-a884e86dc92e)
+<img src="https://firebasestorage.googleapis.com/v0/b/metaplayer-6d01c.appspot.com/o/LoginPage%2FLoginPage.jpg?alt=media&token=43906cda-179b-4766-b4aa-7f3a6ec5abc4"/>
+
+
