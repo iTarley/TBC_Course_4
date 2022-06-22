@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".LoginActivity">
 
-
+<!--Header-->
     <TextView
         android:id="@+id/headerTextView"
         android:layout_width="wrap_content"
@@ -17,6 +17,7 @@
         android:textColor="@color/teal_700"
         android:textSize="29sp" />
 
+<!--Material Theme 2 Edit Text's-->
     <com.google.android.material.textfield.TextInputLayout
         android:id="@+id/emailInputLayout"
         android:layout_width="match_parent"
@@ -118,7 +119,7 @@
             android:id="@+id/ageEditText"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:inputType="date"
+            android:inputType="number"
             android:maxLength="2"
             android:singleLine="true" />
 
@@ -145,6 +146,7 @@
 
     </com.google.android.material.textfield.TextInputLayout>
 
+<!--Save and Clear Buttons-->
     <Button
         android:id="@+id/saveBtn"
         android:layout_width="190dp"
