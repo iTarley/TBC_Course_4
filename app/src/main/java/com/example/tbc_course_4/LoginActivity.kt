@@ -58,8 +58,8 @@ class LoginActivity : AppCompatActivity() {
         }else{
             binding.userNameInputLayout.error = null
         }
-        if (age.isEmpty()){
-            binding.ageInputLayout.error = "Please enter your age"
+        if (age.isEmpty() || age.startsWith("0")){
+            binding.ageInputLayout.error = "Please enter correct age"
         }else{
             binding.ageInputLayout.error = null
         }
